@@ -1,4 +1,4 @@
-# Try Ethereum
+# Try Vapory
 
 ## What is this?
 
